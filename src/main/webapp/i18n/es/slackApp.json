@@ -1,0 +1,22 @@
+{
+    "slackApp": {
+        "slackApp": {
+            "home": {
+                "title": "Slack Apps",
+                "createLabel": "Crear nuevo Slack App",
+                "createOrEditLabel": "Crear o editar Slack App"
+            },
+            "created": "Un nuevo Slack App ha sido creado con el identificador {{ param }}",
+            "updated": "Un Slack App ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Slack App ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Slack App {{ id }}?"
+            },
+            "detail": {
+                "title": "Slack App"
+            },
+            "workspace": "Workspace",
+            "appUser": "App User"
+        }
+    }
+}

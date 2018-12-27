@@ -1,0 +1,27 @@
+{
+    "slackApp": {
+        "workspace": {
+            "home": {
+                "title": "Workspaces",
+                "createLabel": "Crear nuevo Workspace",
+                "createOrEditLabel": "Crear o editar Workspace"
+            },
+            "created": "Un nuevo Workspace ha sido creado con el identificador {{ param }}",
+            "updated": "Un Workspace ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Workspace ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Workspace {{ id }}?"
+            },
+            "detail": {
+                "title": "Workspace"
+            },
+            "workspaceName": "Workspace Name",
+            "admin": "Admin",
+            "workspaceID": "Workspace ID",
+            "description": "Description",
+            "channel": "Channel",
+            "slackApp": "Slack App",
+            "appUser": "App User"
+        }
+    }
+}
