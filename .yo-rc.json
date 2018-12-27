@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "rocks.zipcode.io",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "slack",
+    "packageName": "rocks.zipcode.io",
+    "packageFolder": "rocks/zipcode/io",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmEzNTU4MzhiYmUwN2EzYTU1YzJhM2ZjMDc3ZmM0Yjg2ZTYwOTJkY2I1MDFkZTMxNzFhNDZjOWNhMjRiYTE5OTA5MTNjOTYwMzk2NDJjODU3NDA5NjNjNjI0NTI3MzYzNzlmNmNiNTRjYTcxZGIyYjUwMGU5NmQ2Njc4NzZlZmM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "es"
+    ]
+  }
+}
