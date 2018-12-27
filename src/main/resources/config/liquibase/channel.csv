@@ -1,0 +1,2 @@
+id;channel_name;channel_id;channel_description;is_private;workspace_id
+1;general;1;general_slack_channel;false;1
