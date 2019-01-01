@@ -1,2 +1,2 @@
-id;workspace_name;jhi_admin;workspace_id;description;slack_app_id
-1;cohort;admin;1;cohortWS;1
+id;workspace_name;jhi_admin;description
+1;cohort;admin;cohortWS
